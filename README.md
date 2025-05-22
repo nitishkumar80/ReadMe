@@ -2,7 +2,7 @@
 
 <h1 align="center">नमस्ते! (Namaste!) 🙏</h1>
 
-<img src="./gif/header.png"/><br>
+<img src="https://img.freepik.com/free-vector/red-wall-background-with-shelf-long-lamp-light_107791-25063.jpg?semt=ais_hybrid&w=740"/><br>
 
 <div align='center'>
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
