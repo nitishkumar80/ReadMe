@@ -56,12 +56,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishArs&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NitishArs&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishkumar80&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishkumar80&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitishArs&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumar80&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitishArs&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nitishkumar80&theme=gruvbox" />
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitishArs&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkumar80&theme=react-dark" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/nitishars"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nitish.cto@arskreedashala.com"><img src="https://img.shields.io/badge/Gmail-%231DA1F2.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/NitishArs"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/nitishkumar80"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -95,5 +95,5 @@
 ### 🧭 Visitor Badge
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NitishArs&label=Visitors&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=nitishkumar80&label=Visitors&color=blueviolet&style=flat-square" />
 </p>
