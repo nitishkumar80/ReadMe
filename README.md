@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🚀 CTO | 🎓 MCA Student @ Amity University | 🧠 Tech Innovator @ Ars Kreedashala
+
 <br />
 🏏 Bridging Sports & Technology through AI, Mobile Apps, and IoT 💡
 </p>
